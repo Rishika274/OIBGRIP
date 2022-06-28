@@ -1,0 +1,9 @@
+Atm PIN :2244
+Account Number :123456789
+Account Holder :Rushika Kalambe
+User Id:1804rushika
+Account Balance :7000
+.....Transaction History.....
+Amount Rs5000/-deposited
+Amount Rs1500/-withdrawal
+Amount Rs2500/-Deposited by 1804rushika
